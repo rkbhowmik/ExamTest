@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SecondWindowsFormApp", "Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person Info", "Person Info\Person Info.csproj", "{3DDE94FB-4201-4530-A9FD-3276088FA548}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileReadSave_ToUpper", "FileReadSave_ToUpper", "{8455239F-BD88-49F5-9998-2F360136D36A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208} = {8455239F-BD88-49F5-9998-2F360136D36A}
 		{3DDE94FB-4201-4530-A9FD-3276088FA548} = {419C96CB-F630-467F-A13C-06CBA87B24AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
