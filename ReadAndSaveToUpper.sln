@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person Info", "Person Info\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileReadSave_ToUpper", "FileReadSave_ToUpper", "{8455239F-BD88-49F5-9998-2F360136D36A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadTextFileAndSortInAnArray", "ReadTextFileAndSortInAnArray", "{34142813-6CEE-4A90-B15E-1588354E75B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFileAndSortInArray", "ReadTextFileAndSortInArray\ReadTextFileAndSortInArray.csproj", "{70A439B5-06A2-4554-9077-D58B8233912F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A439B5-06A2-4554-9077-D58B8233912F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A439B5-06A2-4554-9077-D58B8233912F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A439B5-06A2-4554-9077-D58B8233912F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A439B5-06A2-4554-9077-D58B8233912F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208} = {8455239F-BD88-49F5-9998-2F360136D36A}
 		{3DDE94FB-4201-4530-A9FD-3276088FA548} = {419C96CB-F630-467F-A13C-06CBA87B24AD}
+		{70A439B5-06A2-4554-9077-D58B8233912F} = {34142813-6CEE-4A90-B15E-1588354E75B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8B732A8-22BD-4AFD-BE37-1C7BD34C599E}
