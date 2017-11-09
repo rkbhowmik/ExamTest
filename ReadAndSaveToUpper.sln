@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAndSaveToUpper", "ReadTwoArraysAndSumInThird\ReadAndSaveToUpper.csproj", "{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SecondWindowsFormApp", "SecondWindowsFormApp", "{419C96CB-F630-467F-A13C-06CBA87B24AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person Info", "Person Info\Person Info.csproj", "{3DDE94FB-4201-4530-A9FD-3276088FA548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8919E5D-A4C4-4A6E-B1BA-F6C9E9CD6208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDE94FB-4201-4530-A9FD-3276088FA548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3DDE94FB-4201-4530-A9FD-3276088FA548} = {419C96CB-F630-467F-A13C-06CBA87B24AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8B732A8-22BD-4AFD-BE37-1C7BD34C599E}
